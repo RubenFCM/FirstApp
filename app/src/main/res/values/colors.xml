@@ -10,4 +10,9 @@
     <color name="title_text">#ff8D8E98</color>
     <color name="background_fab">#ff6200EE</color>
 
+    <color name="bajoPeso">#00BCD4</color>
+    <color name="pesoNormal">#4CAF50</color>
+    <color name="sobrepeso">#CDDC39</color>
+    <color name="obesidad">#EE001C</color>
+
 </resources>

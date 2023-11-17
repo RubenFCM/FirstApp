@@ -4,4 +4,23 @@
     <string name="female">Mujer</string>
     <string name="height">Altura</string>
     <string name="weight">Peso</string>
+    <string name="age">Edad</string>
+    <string name="calculate">Calcular</string>
+    <string name="result">Tu resultado</string>
+    <string name="recalculate">Recalcular</string>
+    
+    <string name="error">Error</string>
+
+    <string name="bajoPeso">Bajo peso</string>
+    <string name="descriptionBajoPeso">Estás por debajo de lo óptimo para tu peso y altura</string>
+
+    <string name="nomalPeso">Peso normal</string>
+    <string name="descriptionNormalPeso">Estás en lo óptimo para tu peso y altura</string>
+
+    <string name="sobrepeso">Sobrepeso</string>
+    <string name="descriptionSobrepeso">Estás por encima de lo óptimo para tu peso y altura</string>
+
+    <string name="obesidad">Obesidad</string>
+    <string name="descriptionObesidad">Estás Muy por encima de lo óptimo para tu peso y altura</string>
+
 </resources>
