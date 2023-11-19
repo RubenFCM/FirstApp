@@ -2,17 +2,26 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-
+<!--IMC app-->
     <color name="background_component">#1D1E33</color>
     <color name="background_component_selected">#FF111328</color>
     <color name="background_app">#0E0B20</color>
     <color name="background_button">#EB1555</color>
     <color name="title_text">#ff8D8E98</color>
     <color name="background_fab">#ff6200EE</color>
+    <color name="background_btnBlue">#1345AE</color>
 
     <color name="bajoPeso">#00BCD4</color>
     <color name="pesoNormal">#4CAF50</color>
     <color name="sobrepeso">#CDDC39</color>
     <color name="obesidad">#EE001C</color>
-
+<!--Todoapp-->
+    <color name="todo_background_card">#FF081A4A</color>
+    <color name="todo_background_disable">#787878</color>
+    <color name="todo_background">#FF2D4993</color>
+    <color name="todo_subtitle_text">#959595</color>
+    <color name="todo_accent">#E91E63</color>
+    <color name="todo_business_categorty">#FF9800</color>
+    <color name="todo_personal_categoty">#00BCD4</color>
+    <color name="todo_other_categoty">#4CAF50</color>
 </resources>

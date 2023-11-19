@@ -267,7 +267,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
-        android:backgroundTint="#1345AE"
+        android:backgroundTint="@color/background_btnBlue"
         />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

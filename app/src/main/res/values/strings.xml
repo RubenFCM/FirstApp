@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">My ApplicationPruebas</string>
+
+    <!--IMCapp-->
     <string name="male">Hombre</string>
     <string name="female">Mujer</string>
     <string name="height">Altura</string>
@@ -8,7 +10,7 @@
     <string name="calculate">Calcular</string>
     <string name="result">Tu resultado</string>
     <string name="recalculate">Recalcular</string>
-    
+
     <string name="error">Error</string>
 
     <string name="bajoPeso">Bajo peso</string>
@@ -22,5 +24,9 @@
 
     <string name="obesidad">Obesidad</string>
     <string name="descriptionObesidad">Estás Muy por encima de lo óptimo para tu peso y altura</string>
+    <!--TODOapp-->
+    <string name="welcome">Bienvenido, Rubén</string>
+    <string name="category">Categorías:</string>
+    <string name="tasks">Tareas:</string>
 
 </resources>
