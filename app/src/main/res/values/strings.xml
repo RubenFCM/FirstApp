@@ -28,5 +28,10 @@
     <string name="welcome">Bienvenido, Rubén</string>
     <string name="category">Categorías:</string>
     <string name="tasks">Tareas:</string>
+    <string name="addTasks">Añade la tarea</string>
+    <string name="business">Negocios</string>
+    <string name="Personal">Personal</string>
+    <string name="Other">Otros</string>
+    <string name="createTasks">Crear Tarea</string>
 
 </resources>
